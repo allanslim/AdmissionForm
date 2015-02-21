@@ -1,0 +1,8 @@
+C:\Users\allanlim\Documents\Visual Studio 2013\Projects\AdminisionForm\AdminisionForm\bin\Debug\AdminisionForm.exe.config
+C:\Users\allanlim\Documents\Visual Studio 2013\Projects\AdminisionForm\AdminisionForm\bin\Debug\AdminisionForm.exe
+C:\Users\allanlim\Documents\Visual Studio 2013\Projects\AdminisionForm\AdminisionForm\bin\Debug\AdminisionForm.pdb
+C:\Users\allanlim\Documents\Visual Studio 2013\Projects\AdminisionForm\AdminisionForm\obj\Debug\AdminisionForm.AdminisionForm.resources
+C:\Users\allanlim\Documents\Visual Studio 2013\Projects\AdminisionForm\AdminisionForm\obj\Debug\AdminisionForm.Properties.Resources.resources
+C:\Users\allanlim\Documents\Visual Studio 2013\Projects\AdminisionForm\AdminisionForm\obj\Debug\AdminisionForm.csproj.GenerateResource.Cache
+C:\Users\allanlim\Documents\Visual Studio 2013\Projects\AdminisionForm\AdminisionForm\obj\Debug\AdminisionForm.exe
+C:\Users\allanlim\Documents\Visual Studio 2013\Projects\AdminisionForm\AdminisionForm\obj\Debug\AdminisionForm.pdb
